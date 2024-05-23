@@ -48,9 +48,7 @@ cd nua-frontend-developer-intern-assignment</code></pre>
     
 <h3>Start the development server:</h3>
     <pre><code>npm run dev</code></pre>
-    
-<h3>Build for production:</h3>
-    <pre><code>npm run build</code></pre>
+ 
     
 <h2>Project Structure</h2>
     <pre><code>book-dashboard/

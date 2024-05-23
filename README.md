@@ -13,3 +13,28 @@
      <li>Search</li>
   </ul>
 </div>
+
+<div>
+   <h2>Installation</h2>
+   <p>To get started with the project, follow these steps:</p>
+   <h3>Clone the repository:</h3>
+   <h3>Install dependencies:</h3>
+   <h3>Start the development server:</h3>
+</div>
+
+<div>
+   <h2>Project Structure</h2>
+   nua-frontend-developer-intern-assignment/
+            ├── public/
+            ├── src/
+            │   ├── components/
+            │   │   └── AdminDashboard.jsx
+            │   ├── services/
+            │   │   └── api.js
+            │   ├── App.jsx
+            │   ├── main.jsx
+            │   ├── index.css
+            ├── package.json
+            ├── README.md
+            ├── vite.config.js
+</div>

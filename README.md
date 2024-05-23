@@ -6,11 +6,10 @@
 <div>
  <h2>Features</h2> 
   <ul>
-    <li>Data Fetching
-      <ol>
-        <li>Fetch book records using the Open Library API.</li>
-        <li>API documentation: Open Library API.</li>
-      <o/l>
-   </li>
+     <li>Data Fetching</li>
+     <li>Columns</li>
+     <li>Pagination</li>
+     <li>Sorting</li>
+     <li>Search</li>
   </ul>
 </div>

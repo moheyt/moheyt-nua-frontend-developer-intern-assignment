@@ -40,8 +40,8 @@
     <p>To get started with the project, follow these steps:</p>
     
 <h3>Clone the repository:</h3>
-    <pre><code>git clone https://github.com/yourusername/book-dashboard.git
-cd book-dashboard</code></pre>
+    <pre><code>git clone https://github.com/yourusername/nua-frontend-developer-intern-assignment.git
+cd nua-frontend-developer-intern-assignment</code></pre>
     
 <h3>Install dependencies:</h3>
     <pre><code>npm install</code></pre>
@@ -75,9 +75,3 @@ cd book-dashboard</code></pre>
         <li><strong>Search:</strong> Use the search bar to find books by author name.</li>
     </ol>
     
-<h2>Contributing</h2>
-    <p>If you wish to contribute to this project, please fork the repository and create a new branch for your changes. Submit a pull request with a description of your changes and why they should be merged.</p>
-    
- <h2>License</h2>
-    <p>This project is licensed under the MIT License. See the LICENSE file for more information.</p>
-
